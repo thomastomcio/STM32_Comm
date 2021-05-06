@@ -4,3 +4,4 @@
 !Core/*
 !Nucleo-CAN.ioc
 !.gitignore
+!*/
