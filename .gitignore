@@ -1,0 +1,6 @@
+#Exclude all
+*
+#Don't exclude
+!Core/*
+!Nucleo-CAN.ioc
+!.gitignore
